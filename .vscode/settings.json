@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
         "D:/code/custom_tools", 
+        "D:/code/yolov8/ultralytics/third_library/FasterNet_mmdet",
     ]
 }
